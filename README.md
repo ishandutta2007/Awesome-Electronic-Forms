@@ -26,20 +26,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Jotform](https://www.jotform.com/)**  
-  Feature-rich online form builder with extensive templates, payments, integrations, approval workflows, and a large library of widgets.
-
-- **[Typeform](https://www.typeform.com/)**  
-  Leading conversational form platform known for one-question-at-a-time experiences, high completion rates, and polished design.
-
-- **[Formstack](https://www.formstack.com/)**  
-  Enterprise-focused form and document automation platform with advanced logic, workflows, and compliance features.
-
-- **[Cognito Forms](https://www.cognitoforms.com/)**, **[Paperform](https://paperform.co/)**, **[Fillout](https://www.fillout.com/)**  
-  Modern no-code form builders offering calculations, payments, integrations, and flexible design options.
-
-- **[Google Forms](https://forms.google.com/)**, **[Microsoft Forms](https://forms.microsoft.com/)**, **[Zoho Forms](https://www.zoho.com/forms/)**, **[Formsite](https://www.formsite.com/)**  
-  Widely used free or low-cost form tools tightly integrated with their respective productivity ecosystems (Google Workspace, Microsoft 365, Zoho, etc.).
+| Product | Description | Pricing (Starting Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Jotform](https://www.jotform.com/)** | Feature-rich online form builder with extensive templates, payments, integrations, approval workflows, and widgets. | $34/mo (Bronze, billed annually) | 5 forms, 100 submissions/mo, 100 MB storage |
+| **[Typeform](https://www.typeform.com/)** | Leading conversational form platform known for one-question-at-a-time experiences and high completion rates. | $25/mo (Basic, billed annually) | 10 responses/mo across all forms, 10 questions per form |
+| **[Formstack](https://www.formstack.com/)** | Enterprise-focused form and document automation platform with advanced logic, workflows, and compliance features. | $83/mo (Forms Plan, billed annually) | No free forever plan (14-day free trial) |
+| **[Cognito Forms](https://www.cognitoforms.com/)** | Flexible no-code form builder offering calculations, payments, multi-page layout, and conditional logic. | $19/mo (Pro Plan) | 1 user, 500 entries/mo, 100 MB storage |
+| **[Paperform](https://paperform.co/)** | Design-focused no-code form builder with customizable document-style layouts, payments, and scheduling. | $24/mo (Essentials Plan, billed annually) | No free forever plan (14-day free trial) |
+| **[Fillout](https://www.fillout.com/)** | Modern no-code form builder with deep integrations (Airtable, Notion), custom logic, and dynamic pages. | $15/mo (Starter Plan, billed annually) | 1,000 responses/mo, unlimited forms & seats |
+| **[Google Forms](https://forms.google.com/)** | Simple, widely used online form builder seamlessly integrated with Google Workspace and Google Sheets. | Free ($6/user/mo for Workspace Starter) | Free forever (Unlimited forms/responses, 15 GB Drive storage shared) |
+| **[Microsoft Forms](https://forms.microsoft.com/)** | Clean survey and quiz tool tightly integrated into Microsoft 365 ecosystem. | Free ($6/user/mo for M365 Business Basic) | 200 responses per form (Personal Microsoft Account) |
+| **[Zoho Forms](https://www.zoho.com/forms/)** | Feature-rich online form builder integrated with Zoho CRM and productivity applications. | $10/mo (Basic Plan, billed annually) | 3 forms, 500 submissions/mo, 10 payment submissions/mo |
+| **[Formsite](https://www.formsite.com/)** | Secure online form builder focused on data collection, payment processing, and web publishing. | $24/mo (Deluxe Plan, billed annually) | 5 forms, 10 results/form, 50 MB storage |
 
 ## Open-Source GitHub Projects
 
